@@ -1,7 +1,15 @@
 # openscad_offliner
 Download OpenSCAD online documentation for offline reading.
 
-Require: python 2.7, BeautifulSoupt 4.0 above
+Require: python 3, BeautifulSoup
+
+Updated on 2019, Sometime in May:
+
+Did some stuff - maybe it works? I can't actually remember what I did or why other than it is now python3 based
+Should work similarly to before.
+See the source.
+
+----
 
 Updated on 2016, March 20th:
 
