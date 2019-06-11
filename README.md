@@ -3,11 +3,13 @@ Download OpenSCAD online documentation for offline reading.
 
 Require: python 3, BeautifulSoup
 
-Updated on 2019, Sometime in May:
+Updated on 2019, Sometime in May: (ixil)
 
 Did some stuff - maybe it works? I can't actually remember what I did or why other than it is now python3 based
 Should work similarly to before.
 See the source.
+
+Feel free to critique the code / me and I may fix it up - although I am not particularly feeling like maintaining this fyi
 
 ----
 
